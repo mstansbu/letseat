@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Let\'s Eat</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_search">Search</string>
+    <string name="action_add">Add Meal</string>
+    <string name="hello_world">Hello world!</string>
+	<string-array name="eat_in_spinner">
+        <item>Any</item>
+        <item>Mexican</item>
+        <item>Pasta</item>
+        <item>BBQ</item>
+        <item>Other</item>
+    </string-array>
+</resources>
